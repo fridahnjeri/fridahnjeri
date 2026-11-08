@@ -1,7 +1,7 @@
 # Hi there, I'm Fridah Njeri 😊 
 ### Junior Software Engineer
 
-I am a software engineer based in Nairobi, Kenya, currently starting my coding journey. I am passionate about learning the fundamentals of building software, sharpening my technical skills, and building in public. 
+I am a software engineer based in Nairobi, Kenya. I am passionate about learning the fundamentals of building software, sharpening my technical skills, and building in public. 
 
 I am focused on establishing a rock-solid engineering foundation, connecting with the local developer ecosystem, and preparing for remote global opportunities.
 
