@@ -11,7 +11,7 @@ I am focused on establishing a rock-solid engineering foundation, connecting wit
 
 - **Languages:** HTML5, CSS3, JavaScript
 - **Tools:** Git, GitHub, Version Control
-- **Next Goals:** Building my first web applications and diving into backend development.
+- **Next Goals:** Building web applications and diving into backend development.
 
 ---
 
@@ -20,6 +20,6 @@ I am focused on establishing a rock-solid engineering foundation, connecting wit
 I am always excited to connect with mentors, study buddies, and fellow developers in the tech community.
 
 - **LinkedIn:** [linkedin.com/in/fridah-njeri-5233a6351](https://linkedin.com)
-- **GitHub:** [://github.com](https://://github.com)
+- **GitHub:** [https://github.com/fridahnjeri](https://://github.com)
 - **Twitter/X:** [@FridahKinyuafn](https://x.com)
 
